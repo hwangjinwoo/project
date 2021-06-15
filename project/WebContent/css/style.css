@@ -1,0 +1,227 @@
+@charset "UTF-8";
+		FL1{
+			text-align:right; 
+		}
+		FL1 ul{
+			list-style-type:none;
+		}
+		FL1 ul li{
+			display:inline;
+		}
+		FL1 ul li a {
+			margin-right:20px;  
+			font-size:13.5px; 
+			color: black;
+			text-decoration: none;
+		}
+		FL2{
+			word-spacing:800px; 
+			text-align:center;
+			
+		}
+		FL2 ul{
+			list-style-type:none; 
+		}
+		FL2 ul li{
+			font-size: 15px;
+			float: left;
+			display:inline;
+			margin:5px 5px;
+		}
+		FL2 ul li a {
+			margin: fixed;
+			color: black;
+			text-decoration: none;
+		}
+		img{
+			margin: 5px;
+			padding: 5px;
+			margin:15px 20px;
+			text-align:center;
+		}
+		footer {
+			width: 1500px;
+			margin-right: auto;
+			margin-left: auto;
+			margin-top: 0;
+			padding: 10px;
+			font-size:10px;
+			background-color:#c0c0c0;
+			color:black;  
+			text-align:center;
+			clear: both;
+            background-position: top left;
+            background-repeat: repeat-x;
+		}
+		FL3{
+			font-size: 15px;
+			margin: 5px 80px ;
+			
+		}
+		
+		FL3 ul{
+			list-style-type:none; 
+		}
+		FL3 ul li{
+			display:inline;
+		}
+		FL3 ul li a {
+			color: black;
+			text-decoration: none;
+		}
+		.x{
+			text-align: left;
+			word-spacing: 300px;
+			
+		}
+		.y{
+			text-align: left;
+			word-spacing: 225px;
+			
+		}
+		.yy{
+			text-align: left;
+			word-spacing: 190px;
+			
+		}
+		.xx{
+			text-align: left;
+			word-spacing: 300px;
+		}
+		.menu{
+			height: 60px;
+			width: 100%;
+			text-align:center;
+			text-transform: uppercase;
+			border:none;
+			border:0px;
+			margin:0px;
+			padding:0px;
+			font-weight:bold;
+		}
+		.menu ul{
+			display:inline;
+			text-transform:uppercase;
+			padding:0 40px;
+			list-style:none;
+			list-style:none;
+			margin:0;
+			padding:0;
+		}		
+		.menu li{
+			display: inline-block;
+			padding:0px;
+			background-color: white;
+		}
+		.menu li a{
+			display:block;
+			font-weight:normal;
+			line-height:50px;
+			margin:0px;
+			padding:0px 25px;
+			text-align:center;
+			text-decoration:none;
+			color: black;
+		}
+		
+		.menu li ul{
+			display:none;
+			height:auto;
+			padding:0px;
+			margin:0px;
+			border:0px;
+			position:absolute;
+			width:200px;
+			z-index:200;
+		}
+		.menu li:hover ul{
+			display:block;
+		}
+		.menu li li {
+			display:block;
+			float:none;
+			margin:0px;
+			padding:0px;
+			width:200px;
+		}	
+		.menu li:hover li a{
+			background:none;
+		}
+		.menu li ul a{
+			display:block;
+			height:50px;
+			font-size:12px;
+			font-style:normal;
+			margin:0px;
+			padding:0px 10px 0px 15px;
+			text-align:left;
+			text-decoration: none; color: black;
+		}
+		.menu li ul a:hover, .menubar li ul li:hover a{
+			border:0px;
+			text-decoration:none;
+		}
+		menu ul li ul li a:hover{
+		text-decoration: underline;
+		}
+		.table{
+			float: center;
+			list-style: none;
+			text-align: center;
+			padding: 10px;
+			margin: 5px;
+			border-spacing: 10px;
+		}
+		table tr th{
+			text-align: center;
+			text-transform: uppercase;
+			font-size:24px;
+			font-style:normal; 
+		}
+
+		h2{
+			text-align: center;
+			margin: 100px 130px ;
+			font-size: 30px;
+			margin-right: 180px;
+			padding: 10px;
+		}
+		#container { 
+			width:600px;
+			margin:0 auto;
+		}
+		#prod-pic, #desc { 
+			float: right;
+		}
+		#prod-pic { 			
+			margin: 20px 20px auto 10px;
+			padding:0;
+		}
+		#clothes { 			
+			box-shadow:1px 1px 2px #eee;
+			outline:1px dashed #ccc;			
+			outline-offset: -7px;
+		}	
+		#desc {  
+			width:300px;
+			padding-top: 20px;
+			margin-bottom:500px;
+			margin-right: -100px;
+			
+		}
+		#desc ul {
+			list-style:none;
+			font-size: 20px;
+			font-family: 'Jua', sans-serif;
+		}
+		#a {
+			text-align: center;
+		}
+		#b {
+			text-align: center;
+		}
+		.bluetext {
+			color: rgb(0, 128, 255);
+			font-weight:bold;
+		}
+		

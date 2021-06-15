@@ -1,0 +1,71 @@
+@charset "UTF-8";
+			 ul{
+			 	list-style: none;
+			 }
+			 li label{
+			 	width:150px;
+				text-align:right;
+				text-align:center;
+				padding-right:50px;
+				padding-left: 20px;
+
+
+			 }
+			 input[type="submit"]{
+			 	text-align:center;
+			 	width: 100px;
+			 	height: 30px;
+			 	margin-top: 15px; 
+			 }
+			 
+			 fieldset{
+			 	text-align:center;
+			 	padding: 50px;
+			 }
+			 .size{
+			 	margin:150px 200px;
+			 	padding: 50px;
+			 }
+			 LOGIN{
+			 	font-size: 100px;
+			 }
+			 footer {
+				width: 1500px;
+				margin-right: auto;
+				margin-left: auto;
+				margin-top: 0;
+				padding: 10px;
+				font-size:10px;
+				background-color:#999;
+				color:black;  
+				text-align:center;
+
+			}
+
+			FL2{
+				text-align:right; 
+			}
+			FL2 ul{
+				list-style-type:none;
+			}
+			FL2 ul li{
+				display:inline;
+			}
+			FL2 ul li a {
+				margin-right:20px;  
+				font-size:13.5px; 
+				color: black;
+				text-decoration: none;
+			}
+			.x{
+				margin: 0px 10px; 
+			}
+			#a {
+			text-align: center;
+			}
+			button{
+			 	text-align:center;
+			 	width: 100px;
+			 	height: 30px;
+			 	margin-top: 15px; 
+			 }
